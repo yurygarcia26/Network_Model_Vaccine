@@ -1,5 +1,5 @@
 # Vaccination Scenarios for Costa Rica Using a Network Model
-Codes to simulate the scenarios presented in the article:  "Projecting the Impact of Covid-19 Variants and Vaccination Strategies in Disease Transmission using a Network Model in Costa Rica"
+Here you find the codes to simulate the scenarios presented in the article:  "Projecting the Impact of Covid-19 Variants and Vaccination Strategies in Disease Transmission using a Network Model in Costa Rica"
 
 Each folder correspond to one of the scenarios and the file that have to be run is main.mat.
 20 simulations could take around 48 houres.
